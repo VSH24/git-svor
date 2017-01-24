@@ -1,16 +1,16 @@
 1. Hvað gera eftirfarandi Linux skipanir?
-	cd
+	cd 
 	cd ~
 	ls
 	pwd
-	mkdir
+	mkdir = býr til möppu
 
 2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
 	git clone
 	git log
 	git status
 	git diff
-	git checkout
+	git checkout = tek út grein
 
 3. Hver er munurinn á eftirfarandi git skipunum:
 	a) git diff 
